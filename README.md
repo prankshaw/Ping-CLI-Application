@@ -1,5 +1,11 @@
-# Ping-CLI-Application
-### Replicating the ping command using C language
+# Ping-CLI-Application  <a href="../../issues"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-blue??style=flat"></a>
+### Replicating the ping command using C language  
+[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
+<a href="../../issues"><img alt="Issues Open" src="https://img.shields.io/github/issues/The-Building-Laboratory/Ping-CLI-Application?color=pink"></a>
+<a href="../../issues"><img alt="Forks" src="https://img.shields.io/github/forks/The-Building-Laboratory/Ping-CLI-Application?color=purple"></a>
+<a href="../../issues"><img alt="Stars" src="https://img.shields.io/github/stars/The-Building-Laboratory/Ping-CLI-Application?color=yellow"></a>
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40mepranjal31)](https://twitter.com/mepranjal31)
+
 
 ## Features
 
